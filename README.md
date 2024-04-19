@@ -18,7 +18,7 @@
 
 [V5.0 - 4BAR LT Quad BT ILS](https://github.com/Chauvet-DJ/4BARLTQUADBTILS/blob/01715b60aceb15e10229e36b8970909f856b568d/Firmware/V5.0_04-19-24.zip)
 - Fixed a signal dropping issue when used with the D-Fi USB stick
-   * #### The V5.0 update contains software labeled as V4.0 because the root code in your 4Bar LT Quad BT ILS is encoded to look for V4.0. It will appear as V5.0 once it is installed into the fixture.
+     * ***The V5.0 update contains software labeled as V4.0 because the root code in your 4Bar LT Quad BT ILS is encoded to look for V4.0. It will appear as V5.0 once it is installed into the fixture.***
 &nbsp; 
 
 [V4.0 - 4BAR LT Quad BT ILS](https://github.com/Chauvet-DJ/4BARLTQUADBTILS/blob/01715b60aceb15e10229e36b8970909f856b568d/Firmware/V4.0_03-14-24.zip)
