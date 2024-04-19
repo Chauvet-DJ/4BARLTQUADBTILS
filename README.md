@@ -13,3 +13,11 @@
 * The thumb drive must be formatted to FAT32.
 * The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
 * Do not disconnect from power source until the update process is complete.
+
+&nbsp; 
+
+[V5.0 - 4BAR LT Quad BT ILS](https://github.com/Chauvet-DJ/4BARLTQUADBTILS/blob/01715b60aceb15e10229e36b8970909f856b568d/Firmware/V5.0_04-19-24.zip)
+- Fixed a signal dropping issue when used with the D-Fi USB stick
+
+[V4.0 - 4BAR LT Quad BT ILS](https://github.com/Chauvet-DJ/4BARLTQUADBTILS/blob/01715b60aceb15e10229e36b8970909f856b568d/Firmware/V4.0_03-14-24.zip)
+- Software update
