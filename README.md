@@ -2,12 +2,12 @@
 
 ## Software Versions
 
-[V5.01a - 4BAR LT Quad BT ILS](https://github.com/Chauvet-DJ/4BARLTQUADBTILS/blob/ee69c32d07bb41462606f1bb9d09d98f49d169a5/Firmware/V5.01a_06-30-24.zip)
+[V5.01a - 4BAR LT Quad BT ILS](https://github.com/Chauvet-DJ/4BARLTQUADBTILS/blob/2bd3f8c919060c98ca8fc0beea04eda3de4319a8/Firmware/V5.01a_09-04-24.zip)
 - ***NOTE: Use this version for products with serial number 0424000741 and up.***
 - Changed the D-Fi detection method from voltage detection to software detection
 - Updated the software file name
 
-[V5.01b - 4BAR LT Quad BT ILS](https://github.com/Chauvet-DJ/4BARLTQUADBTILS/blob/ee69c32d07bb41462606f1bb9d09d98f49d169a5/Firmware/V5.01b_06-30-24.zip)
+[V5.01b - 4BAR LT Quad BT ILS](https://github.com/Chauvet-DJ/4BARLTQUADBTILS/blob/2bd3f8c919060c98ca8fc0beea04eda3de4319a8/Firmware/V5.01b_09-04-24.zip)
 - ***NOTE: Use this version for products with serial number 0424000740 and below.***
 - Changed the D-Fi detection method from voltage detection to software detection
 
